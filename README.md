@@ -1,4 +1,4 @@
-*This is a small practice project based on the [Basic CSS Grid Course (2021)](https://platzi.com/cursos/document-object-model/) from Platzi*
+*This is a small practice project based on the [Basic CSS Grid Course (2021)](https://platzi.com/cursos/css-grid/) from Platzi*
 
 **(In progress)**
 
