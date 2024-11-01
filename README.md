@@ -1,8 +1,7 @@
 *This is a small practice project based on the [Basic CSS Grid Course (2021)](https://platzi.com/cursos/css-grid/) from Platzi*
 
-**(In progress)**
-
-[Live here]()
+[Live here](https://santiagovok.github.io/project-basic-css-grid
+/)
 
 ---
 
@@ -22,9 +21,8 @@ I am still learning best practices and practicing with Git, so there may be erro
 
 *Este es un pequeño proyecto de práctica en base al [Curso de CSS Grid Básico (2021)](https://platzi.com/cursos/css-grid/) de Platzi*
 
-**(en progreso)**
-
-[En vivo aquí]()
+[En vivo aquí](https://santiagovok.github.io/project-basic-css-grid
+/)
 
 ---
 
