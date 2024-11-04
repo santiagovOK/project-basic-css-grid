@@ -2,6 +2,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 main {
     max-width: 1200px;
     margin: 0 auto;
